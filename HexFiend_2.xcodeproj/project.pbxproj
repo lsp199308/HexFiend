@@ -437,6 +437,24 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = app/sources/main.m; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		75476D342CCDEE6200CE5D68 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Preferences.strings"; sourceTree = "<group>"; };
+		75D1B1512CCDE4AF0048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/OpenDriveDialog.strings"; sourceTree = "<group>"; };
+		75D1B1522CCDE4AF0048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/DataInspectorView.strings"; sourceTree = "<group>"; };
+		75D1B1532CCDE4AF0048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/ChooseStringEncodingDialog.strings"; sourceTree = "<group>"; };
+		75D1B1542CCDE4AF0048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/MyDocument.strings"; sourceTree = "<group>"; };
+		75D1B1552CCDE4AF0048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/MoveSelectionByBanner.strings"; sourceTree = "<group>"; };
+		75D1B1562CCDE4AF0048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/JumpToOffsetBanner.strings"; sourceTree = "<group>"; };
+		75D1B1572CCDE4AF0048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/FindReplaceBanner.strings"; sourceTree = "<group>"; };
+		75D1B1582CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/SaveBanner.strings"; sourceTree = "<group>"; };
+		75D1B1592CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/DiffComputationBanner.strings"; sourceTree = "<group>"; };
+		75D1B15A2CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/DiffDocument.strings"; sourceTree = "<group>"; };
+		75D1B15B2CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/DiffRangeDialog.strings"; sourceTree = "<group>"; };
+		75D1B15C2CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/MainMenu.strings"; sourceTree = "<group>"; };
+		75D1B15E2CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/BinaryTemplateController.strings"; sourceTree = "<group>"; };
+		75D1B15F2CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "app/resources/zh-Hans.lproj/BinaryTemplatePopover.strings"; sourceTree = "<group>"; };
+		75D1B1602CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "app/resources/zh-Hans.lproj/OpenAccessoryView.strings"; sourceTree = "<group>"; };
+		75D1B1612CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/MainMenu.strings"; sourceTree = "<group>"; };
+		75D1B1622CCDE4B00048EB2D /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		795F46BF14BAA45D00EB2F7D /* OpenDriveWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = OpenDriveWindowController.h; path = app/sources/OpenDriveWindowController.h; sourceTree = "<group>"; };
 		795F46C014BAA45D00EB2F7D /* OpenDriveWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = OpenDriveWindowController.m; path = app/sources/OpenDriveWindowController.m; sourceTree = "<group>"; };
 		795F46C214BAADB600EB2F7D /* DiskArbitration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DiskArbitration.framework; path = System/Library/Frameworks/DiskArbitration.framework; sourceTree = SDKROOT; };
@@ -1778,6 +1796,7 @@
 			knownRegions = (
 				en,
 				Base,
+				"zh-Hans",
 			);
 			mainGroup = 29B97314FDCFA39411CA2CEA /* HexFiend_2 */;
 			packageReferences = (
@@ -2176,6 +2195,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				089C165DFE840E0CC02AAC07 /* Base */,
+				75D1B1622CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = InfoPlist.strings;
 			path = app/resources;
@@ -2185,6 +2205,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A5589ACB2206D238000293A4 /* Base */,
+				75D1B1602CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = OpenAccessoryView.xib;
 			sourceTree = "<group>";
@@ -2193,6 +2214,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D920DF2CD6001B4C48 /* Base */,
+				75476D342CCDEE6200CE5D68 /* zh-Hans */,
 			);
 			name = Preferences.xib;
 			path = app/resources;
@@ -2202,6 +2224,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0CE20DF2CD3001B4C48 /* Base */,
+				75D1B1522CCDE4AF0048EB2D /* zh-Hans */,
 			);
 			name = DataInspectorView.xib;
 			path = app/resources;
@@ -2211,6 +2234,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0CF20DF2CD4001B4C48 /* Base */,
+				75D1B1532CCDE4AF0048EB2D /* zh-Hans */,
 			);
 			name = ChooseStringEncodingDialog.xib;
 			path = app/resources;
@@ -2220,6 +2244,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0CD20DF2CD3001B4C48 /* Base */,
+				75D1B1512CCDE4AF0048EB2D /* zh-Hans */,
 			);
 			name = OpenDriveDialog.xib;
 			path = app/resources;
@@ -2229,6 +2254,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A594F04E24959F6400DCACD3 /* Base */,
+				75D1B15F2CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = BinaryTemplatePopover.xib;
 			sourceTree = "<group>";
@@ -2237,6 +2263,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0DA20DF2CD6001B4C48 /* Base */,
+				75D1B15E2CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = BinaryTemplateController.xib;
 			path = app/resources;
@@ -2246,6 +2273,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D620DF2CD6001B4C48 /* Base */,
+				75D1B15A2CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = DiffDocument.xib;
 			path = app/resources;
@@ -2255,6 +2283,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D420DF2CD5001B4C48 /* Base */,
+				75D1B1582CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = SaveBanner.xib;
 			path = app/resources;
@@ -2264,6 +2293,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D320DF2CD5001B4C48 /* Base */,
+				75D1B1572CCDE4AF0048EB2D /* zh-Hans */,
 			);
 			name = FindReplaceBanner.xib;
 			path = app/resources;
@@ -2273,6 +2303,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D220DF2CD4001B4C48 /* Base */,
+				75D1B1562CCDE4AF0048EB2D /* zh-Hans */,
 			);
 			name = JumpToOffsetBanner.xib;
 			path = app/resources;
@@ -2282,6 +2313,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D120DF2CD4001B4C48 /* Base */,
+				75D1B1552CCDE4AF0048EB2D /* zh-Hans */,
 			);
 			name = MoveSelectionByBanner.xib;
 			path = app/resources;
@@ -2291,6 +2323,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D020DF2CD4001B4C48 /* Base */,
+				75D1B1542CCDE4AF0048EB2D /* zh-Hans */,
 			);
 			name = MyDocument.xib;
 			path = app/resources;
@@ -2300,6 +2333,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D820DF2CD6001B4C48 /* Base */,
+				75D1B15C2CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = MainMenu.xib;
 			path = app/resources;
@@ -2309,6 +2343,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0DB20DF2CD7001B4C48 /* Base */,
+				75D1B1612CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = MainMenu.xib;
 			sourceTree = "<group>";
@@ -2317,6 +2352,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D520DF2CD5001B4C48 /* Base */,
+				75D1B1592CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = DiffComputationBanner.xib;
 			path = app/resources;
@@ -2326,6 +2362,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				A554E0D720DF2CD6001B4C48 /* Base */,
+				75D1B15B2CCDE4B00048EB2D /* zh-Hans */,
 			);
 			name = DiffRangeDialog.xib;
 			path = app/resources;

@@ -1,0 +1,17 @@
+/* Class = "NSWindow"; title = "Choose Encodings"; ObjectID = "67"; */
+"67.title" = "选择编码";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "Cu1-GP-Eh7"; */
+"Cu1-GP-Eh7.headerCell.title" = "名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Show in Menu"; ObjectID = "GwW-Bx-Iqs"; */
+"GwW-Bx-Iqs.headerCell.title" = "在菜单中显示";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "O8M-O3-8Ic"; */
+"O8M-O3-8Ic.title" = "文本单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Identifier"; ObjectID = "t70-3m-FIG"; */
+"t70-3m-FIG.headerCell.title" = "标识符";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "uDE-g2-lLA"; */
+"uDE-g2-lLA.title" = "文本单元格";

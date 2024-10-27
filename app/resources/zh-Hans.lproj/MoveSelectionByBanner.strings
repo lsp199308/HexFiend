@@ -1,0 +1,11 @@
+/* Class = "NSTextFieldCell"; placeholderString = "e.g. 42, 0x42, 042"; ObjectID = "68"; */
+"68.placeholderString" = "例如：42，0x42，042";
+
+/* Class = "NSTextFieldCell"; title = "Move selection by"; ObjectID = "86"; */
+"86.title" = "按此移动选择";
+
+/* Class = "NSButtonCell"; title = "extend"; ObjectID = "88"; */
+"88.title" = "扩展";
+
+/* Class = "NSButtonCell"; title = "Move"; ObjectID = "92"; */
+"92.title" = "移动";

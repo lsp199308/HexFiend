@@ -1,0 +1,23 @@
+/* Class = "NSWindow"; title = "Set Diff Range"; ObjectID = "1"; */
+"1.title" = "设置差异范围";
+
+/* Class = "NSButtonCell"; title = "Compare"; ObjectID = "4"; */
+"4.title" = "比较";
+
+/* Class = "NSTextFieldCell"; title = "From:"; ObjectID = "35"; */
+"35.title" = "从:";
+
+/* Class = "NSTextFieldCell"; title = "To:"; ObjectID = "39"; */
+"39.title" = "到:";
+
+/* Class = "NSTextFieldCell"; placeholderString = "0"; ObjectID = "169"; */
+"169.placeholderString" = "0";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "169"; */
+"169.title" = "0";
+
+/* Class = "NSTextFieldCell"; placeholderString = "1024"; ObjectID = "175"; */
+"175.placeholderString" = "1024";
+
+/* Class = "NSTextFieldCell"; title = "1024"; ObjectID = "175"; */
+"175.title" = "1024";

@@ -1,0 +1,21 @@
+/* Class = "NSWindow"; title = "Open Drive"; ObjectID = "1"; */
+"1.title" = "打开驱动器";
+
+/* Class = "NSTableColumn"; headerCell.title = "BSD Name"; ObjectID = "8"; */
+"8.headerCell.title" = "BSD 名称";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+"11.title" = "文本单元格";
+
+/* Class = "NSButtonCell"; title = "Select"; ObjectID = "13"; */
+"13.title" = "选择";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "15"; */
+"15.title" = "取消";
+
+/* Class = "NSTableColumn"; headerCell.title = "Label"; ObjectID = "25"; */
+"25.headerCell.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "26"; */
+"26.title" = "文本单元格";
+

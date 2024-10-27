@@ -1,0 +1,17 @@
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "3tC-5d-kwc"; */
+"3tC-5d-kwc.title" = "标签";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "BZb-3J-1dW"; */
+"BZb-3J-1dW.headerCell.title" = "名称";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "DyN-kX-fPm"; */
+"DyN-kX-fPm.title" = "文本单元格";
+
+/* Class = "NSTextFieldCell"; title = "Template:"; ObjectID = "b7b-58-bHQ"; */
+"b7b-58-bHQ.title" = "模板:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "wSF-iL-osy"; */
+"wSF-iL-osy.title" = "文本单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Value"; ObjectID = "yHq-wb-Ofp"; */
+"yHq-wb-Ofp.headerCell.title" = "值";

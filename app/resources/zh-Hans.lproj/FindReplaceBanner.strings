@@ -1,0 +1,26 @@
+/* Class = "NSTextFieldCell"; title = "Find"; ObjectID = "16"; */
+"16.title" = "查找";
+
+/* Class = "NSTextFieldCell"; title = "Replace"; ObjectID = "18"; */
+"18.title" = "替换";
+
+/* Class = "NSSegmentedCell"; 100.ibShadowedLabels[0] = "Hex"; ObjectID = "100"; */
+"100.ibShadowedLabels[0]" = "十六进制";
+
+/* Class = "NSSegmentedCell"; 100.ibShadowedLabels[1] = "Text"; ObjectID = "100"; */
+"100.ibShadowedLabels[1]" = "文本";
+
+/* Class = "NSSegmentedCell"; 133.ibShadowedLabels[0] = "Replace All"; ObjectID = "133"; */
+"133.ibShadowedLabels[0]" = "替换所有";
+
+/* Class = "NSSegmentedCell"; 133.ibShadowedLabels[1] = "Replace"; ObjectID = "133"; */
+"133.ibShadowedLabels[1]" = "替换";
+
+/* Class = "NSSegmentedCell"; 133.ibShadowedLabels[2] = "Replace & Find"; ObjectID = "133"; */
+"133.ibShadowedLabels[2]" = "替换并查找";
+
+/* Class = "NSSegmentedCell"; 133.ibShadowedLabels[3] = "Previous"; ObjectID = "133"; */
+"133.ibShadowedLabels[3]" = "上一个";
+
+/* Class = "NSSegmentedCell"; 133.ibShadowedLabels[4] = "Next"; ObjectID = "133"; */
+"133.ibShadowedLabels[4]" = "下一个";
